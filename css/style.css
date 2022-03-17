@@ -1,0 +1,27 @@
+body {
+    font-family: 'Monsterrat';
+}
+
+.logo {
+  width: 60px;
+  height: 60px;
+}
+
+.navbar {
+  background-color: #171717;
+
+}
+
+.nav-item {
+    margin-right: 24px;
+    font-weight: 200;
+}
+
+.nav-item.active a {
+    color: #A0D3A5 !important;
+}
+
+.nav-link span{
+    color: #A0D3A5;
+    font-weight: 600;
+}
