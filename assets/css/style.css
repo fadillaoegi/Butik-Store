@@ -100,9 +100,37 @@ body {
 .btn-product{
     margin: 50px 0;
     color: white;
+    border-bottom: 1px #b7b7b7 solid;
+    padding-bottom: 30px;
 }
 
 .btn-product .btn{
     display: block;
     margin: 5px 0;;
 }
+
+.design-by h5{
+    font-size: 15px;
+    font-weight: 200;
+}
+
+.design-by h4{
+    font-size: 18px;
+    font-weight: 200;
+    color: #171717;
+}
+
+.design-by p{
+    font-size: 14px;
+    font-weight: 200;
+}
+
+.design-by p span{
+    font-size: 14px;
+    font-weight: 200;
+    color: #b7b7b7;
+}
+
+/* .design-by .row a{
+    display: inline-block;
+} */
