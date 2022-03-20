@@ -77,3 +77,8 @@ body {
 .figure-img:hover a{
     opacity: 1;
 }
+
+.breadcrumb{
+    margin-top: 100px;
+    background: transparent;
+}
